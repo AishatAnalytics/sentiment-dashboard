@@ -1,0 +1,144 @@
+{
+  "timestamp": "2026-04-28T15:40:13.957260",
+  "topic": "AWS Cloud Computing",
+  "dashboard": {
+    "total_mentions": 15,
+    "positive_count": 9,
+    "negative_count": 6,
+    "neutral_count": 0,
+    "positive_percentage": 60.0,
+    "negative_percentage": 40.0,
+    "neutral_percentage": 0.0,
+    "average_score": 0.21,
+    "overall_sentiment": "POSITIVE",
+    "top_themes": [
+      [
+        "serverless",
+        1
+      ],
+      [
+        "pricing transparency",
+        1
+      ],
+      [
+        "certification",
+        1
+      ],
+      [
+        "reliability",
+        1
+      ],
+      [
+        "AI features",
+        1
+      ]
+    ]
+  },
+  "sentiments": [
+    {
+      "mention_index": 0,
+      "sentiment": "POSITIVE",
+      "score": 0.9,
+      "theme": "serverless",
+      "intensity": "HIGH"
+    },
+    {
+      "mention_index": 1,
+      "sentiment": "NEGATIVE",
+      "score": -0.7,
+      "theme": "pricing transparency",
+      "intensity": "HIGH"
+    },
+    {
+      "mention_index": 2,
+      "sentiment": "POSITIVE",
+      "score": 0.85,
+      "theme": "certification",
+      "intensity": "HIGH"
+    },
+    {
+      "mention_index": 3,
+      "sentiment": "NEGATIVE",
+      "score": -0.9,
+      "theme": "reliability",
+      "intensity": "HIGH"
+    },
+    {
+      "mention_index": 4,
+      "sentiment": "POSITIVE",
+      "score": 0.85,
+      "theme": "AI features",
+      "intensity": "HIGH"
+    },
+    {
+      "mention_index": 5,
+      "sentiment": "NEGATIVE",
+      "score": -0.8,
+      "theme": "support",
+      "intensity": "HIGH"
+    },
+    {
+      "mention_index": 6,
+      "sentiment": "POSITIVE",
+      "score": 0.7,
+      "theme": "infrastructure automation",
+      "intensity": "MEDIUM"
+    },
+    {
+      "mention_index": 7,
+      "sentiment": "NEGATIVE",
+      "score": -0.6,
+      "theme": "cost complexity",
+      "intensity": "MEDIUM"
+    },
+    {
+      "mention_index": 8,
+      "sentiment": "POSITIVE",
+      "score": 0.9,
+      "theme": "cost savings",
+      "intensity": "HIGH"
+    },
+    {
+      "mention_index": 9,
+      "sentiment": "POSITIVE",
+      "score": 0.75,
+      "theme": "event-driven architecture",
+      "intensity": "MEDIUM"
+    },
+    {
+      "mention_index": 10,
+      "sentiment": "NEGATIVE",
+      "score": -0.6,
+      "theme": "documentation",
+      "intensity": "MEDIUM"
+    },
+    {
+      "mention_index": 11,
+      "sentiment": "POSITIVE",
+      "score": 0.7,
+      "theme": "multi-region",
+      "intensity": "MEDIUM"
+    },
+    {
+      "mention_index": 12,
+      "sentiment": "NEGATIVE",
+      "score": -0.55,
+      "theme": "capacity planning",
+      "intensity": "MEDIUM"
+    },
+    {
+      "mention_index": 13,
+      "sentiment": "POSITIVE",
+      "score": 0.75,
+      "theme": "free tier",
+      "intensity": "MEDIUM"
+    },
+    {
+      "mention_index": 14,
+      "sentiment": "POSITIVE",
+      "score": 0.85,
+      "theme": "disaster recovery",
+      "intensity": "HIGH"
+    }
+  ]
+}
